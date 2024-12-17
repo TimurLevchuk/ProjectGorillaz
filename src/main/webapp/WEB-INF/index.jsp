@@ -14,7 +14,7 @@
             <div class="col-md-auto">
                 <c:if test="${sessionScope.userId == null}">
                     <p>
-                        Чтобы начать играть, <a href="/login">войдите</a> или <a href="/signup">зарегистрируйтесь</a>
+                        Для продолжения необходимо <a href="/login">войти</a> или <a href="/signup">зарегистрироваться</a>
                     </p>
                 </c:if>
             </div>
