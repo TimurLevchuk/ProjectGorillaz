@@ -1,4 +1,4 @@
-package com.javarush.levchuk;
+package com.javarush.levchuk.controller;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

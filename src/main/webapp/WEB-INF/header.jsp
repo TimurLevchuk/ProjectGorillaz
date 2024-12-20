@@ -23,7 +23,7 @@
       </ul>
       <div class="d-md-none my-2"><button class="btn btn-light me-2" type="button">Button</button><button class="btn btn-primary" type="button">Button</button></div>
     </div><a class="link-light" href="#">Квесты</a><a class="link-light" href="#">Рейтинг</a>
-    <div class="d-none d-md-block"><a class="btn btn-light border rounded me-2" role="button" href="#">Войти</a><a class="btn btn-primary link-light bg-danger" role="button" href="#">Зарегестрироваться</a></div>
+    <div class="d-none d-md-block"><a class="btn btn-light border rounded me-2" role="button" href="/login">Войти</a><a class="btn btn-primary link-light bg-danger" role="button" href="#">Зарегестрироваться</a></div>
   </div>
 </nav>
 </body>
