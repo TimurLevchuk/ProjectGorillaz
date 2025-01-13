@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
-<%@ page import="com.javarush.khasanov.entity.GameState" %>
+<%@ page import="com.javarush.levchuk.entity.GameState" %>
 <%@include file="header.jsp" %>
 <main role="main">
     <div class="container">
